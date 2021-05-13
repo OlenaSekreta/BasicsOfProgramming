@@ -1,0 +1,4 @@
+3
+May,1000,Econ,34
+Jude,890,Law,7
+Smith,374,Fosl,74
